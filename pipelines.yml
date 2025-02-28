@@ -1,0 +1,5 @@
+- pipeline.id: plaintext_pipeline
+  path.config: "/usr/share/logstash/pipeline/logstashplaintext.conf"
+  
+- pipeline.id: highfiveapp
+  path.config: "/usr/share/logstash/pipeline/logstashhighfiveapp.conf"
